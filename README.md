@@ -1,2 +1,2 @@
-# Ostrich_Games
+# Ostrich Games
 Some healthy games are saved here.
